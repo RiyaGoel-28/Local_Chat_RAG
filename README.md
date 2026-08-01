@@ -2,6 +2,10 @@
 
 A local Retrieval-Augmented Generation (RAG) application that lets users upload documents and chat with them using open-source LLMs. The application runs entirely on your local machine to keep your data private.
 
+<p align="center">
+  <img src="assets/LocalchatRAG.jpg" width="900">
+</p>
+
 ---
 
 ## ✨ Features
