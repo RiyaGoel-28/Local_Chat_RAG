@@ -170,7 +170,7 @@ ChatRAG/
 ---
 
 ## Credits
-- Built by Tarek Adam Mustafa and contributors.
+- Built by Riya Goel.
 - Powered by open-source: [Ollama](https://ollama.com/), [LangChain](https://github.com/langchain-ai/langchain), [ChromaDB](https://www.trychroma.com/), [Unstructured](https://unstructured.io/), [Chakra UI](https://chakra-ui.com/), [Vite](https://vitejs.dev/).
 
 ---
